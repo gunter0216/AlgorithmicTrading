@@ -1,0 +1,8 @@
+.vscode
+*.gcda 
+*.gcno 
+*.info 
+*.out 
+report 
+Parallels 
+test
